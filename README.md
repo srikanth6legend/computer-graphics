@@ -1,7 +1,7 @@
 # Computer Graphics Laboratory
 
-* **Name:** ALLEN CHRIST A
-* **Registration Number:** 2411021061266
+* **Name:** Srikanth c
+* **Registration Number:** 2411021061560
 * **Environment:** Python | PyOpenGL | FreeGLUT
 
 ---
